@@ -187,6 +187,9 @@ compile 'com.vanniktech:emoji-twitter:0.6.0-SNAPSHOT'
 
 No configuration needed.
 
+
+
+For More Information Visit[`Bird Communication`](https://www.birdcommunication.in)
 # License
 
 Copyright (C) 2016 Vanniktech - Niklas Baudy
